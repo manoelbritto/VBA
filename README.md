@@ -21,19 +21,30 @@ calculate_Hard
 
 ### Result
 
-Macro calculate_Vol_easy
-It will loop through one year of stock data for each run and return the total volume each stock (Column J) had over that year.
-And display the ticker symbol (Column I) to coincide with the total stock volume.
+**Macro calculate_Vol_easy**
+> It will loop through one year of stock data for each run and return the total volume each stock (Column J) had over that year.
 
-Macro calculate_Moderate
-The ticker symbol (Column I).
-Yearly change from opening price at the beginning of a given year to the closing price at the end of that year (Column J).
-The percent change from opening price at the beginning of a given year to the closing price at the end of that year (Column K).
-The total stock volume of the stock (Column L).
+> And display the ticker symbol (Column I) to coincide with the total stock volume.
 
-Macro calculate_Hard
-This includes everything from the macro calculate_Moderate.
-Also, it returns the stock with the "Greatest % increase" (Column N), "Greatest % Decrease" (Column O) and "Greatest total volume" (Column P).
+![GitHub Logo](/Screenshots/calculate_Vol_easy.png)
+
+**Macro calculate_Moderate**
+> The ticker symbol (Column I).
+
+> Yearly change from opening price at the beginning of a given year to the closing price at the end of that year (Column J).
+
+> The percent change from opening price at the beginning of a given year to the closing price at the end of that year (Column K).
+
+> The total stock volume of the stock (Column L).
+
+![GitHub Logo](/Screenshots/calculate_Moderate.png)
+
+**Macro calculate_Hard**
+> This includes everything from the macro calculate_Moderate.
+
+> Also, it returns the stock with the "Greatest % increase" (Column N), "Greatest % Decrease" (Column O) and "Greatest total volume" (Column P).
+
+![GitHub Logo](/Screenshots/calculate_Hard.png)
 
 ## Built With
 

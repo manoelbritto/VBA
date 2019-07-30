@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-You should have your development view activated in your Microsoft Excel application. You will know if you have a menu called Developer. In case you don’t have, then try to search “ Activate the Developer Tab in Excel”
+You should have your development view activated in your Microsoft Excel application. You will know if you have a menu called Developer. In case you don’t have, then try to search on google this “ Activate the Developer Tab in Excel” and follow the instruction to activate the developer view on Excel.
 
 ## Running this development
 
